@@ -1,0 +1,3 @@
+# Dữ liệu khách hàng là dữ liệu cá nhân: không đưa lên repo có remote (theo CLAUDE.md)
+khach-hang/*
+!khach-hang/.gitkeep
